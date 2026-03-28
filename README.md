@@ -1,47 +1,73 @@
-<h1 align="center">Projeto Web: FundU</h1>
+<h1 align="center">💡 FundU - Plataforma de Crowdfunding</h1>
 
-### Índice 
+<p align="center">
+Aplicação web desenvolvida para conectar criadores de projetos a uma comunidade disposta a apoiar ideias através de financiamento coletivo.
+</p>
 
-- **[Descrição do Projeto](#descrição-do-projeto-)**
-- **[Funcionalidades do projeto](#funcionalidades-)**
-- **[Como usar](#como-usar-)**
-- **[Tecnologias utilizadas](#tecnologias-utilizadas-)**
-- **[Pessoas Contribuidoras](#pessoas-contribuidoras-)**
-- **[Pessoa Desenvolvedora do Projeto](#pessoa-desenvolvedora-)**
-- **[Conclusão](#conclusão-)**
+---
 
+## 📌 Visão geral
 
-# Descrição do Projeto 🎯 
-<p>FundU é um projeto desenvolvido para aplicar os conhecimentos adquiridos durante a Trilha 1 do curso Decodificadas. 
-O principal objetivo é aprimorar o aprendizado através de uma plataforma que facilita a criação e doação de projetos.</p>
-<p>FundU é uma plataforma de crowdfunding projetada para conectar pessoas com grandes ideias e sonhos a uma comunidade disposta a apoiar e financiar esses projetos. Nossa missão é fornecer a empreendedores, criadores e sonhadores as ferramentas necessárias para transformar suas ideias em realidade, independentemente do tamanho ou alcance.</p>
-<p>No FundU, acreditamos que todos os projetos merecem uma chance de sucesso. Desde startups inovadoras até iniciativas comunitárias, nossa plataforma está aberta a todos os tipos de projetos que buscam um impulso financeiro para crescer. Oferecemos uma experiência de captação de recursos simples, segura e acessível, permitindo que cada usuário compartilhe sua história e alcance seus objetivos.</p>
-<p>Nosso diferencial está em construir uma rede solidária onde cada contribuição, grande ou pequena, faça a diferença. Com o FundYu, você está a um passo mais perto de realizar seus sonhos.</p>
+FundU é uma plataforma de crowdfunding que permite a criação e visualização de projetos, facilitando a conexão entre pessoas com ideias e possíveis apoiadores.
 
-# Funcionalidades 🛠️
-* Navegação entre Páginas: Atualmente, o site permite a navegação entre as páginas principais, proporcionando uma visão geral do funcionamento da plataforma.
+O projeto foi desenvolvido com foco em organização de interfaces, estruturação de páginas web e experiência do usuário.
 
-# Como Usar 🚀
-* Clone o repositório para o seu ambiente local.
-* Navegue até o Diretório do Projeto
-* Abra o arquivo index.html no seu navegador para visualizar o site localmente.
+---
 
-# Tecnologias utilizadas 📦
-* HTML
-* CSS
-* Visual Studio Code
+## ⚙️ Funcionalidades
 
-# Pessoas Contribuidoras 🤝
-Gostaria de expressar minha gratidão à professora Rafaela Paganotto e a todos os membros do projeto Decodificadas por seu apoio e orientação durante o curso e o desenvolvimento deste projeto.
-  
-# Pessoa Desenvolvedora 👨‍💻
-* Tatiana Varona Villavicencio
+- Navegação entre páginas da aplicação  
+- Exibição de projetos disponíveis  
+- Estrutura para apresentação de ideias  
+- Interface simples e intuitiva  
 
-# Conclusão 📜
-O FundU representa apenas o início de um caminho de aprendizado contínuo e evolução no desenvolvimento de projetos web. As lições aprendidas aqui servirão como base para projetos futuros, mais complexos e completos.
+---
 
+## 🛠️ Tecnologias
 
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E65100?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1565C0?style=for-the-badge&logo=css3&logoColor=white"/>
+</p>
 
+---
 
+## 📂 Estrutura do projeto
+```
+FundU/
+├── assets/
+├── src/
+├── index.html
+└── README.md
+```
+- `assets/`: imagens e arquivos estáticos  
+- `src/`: arquivos de estrutura e organização da aplicação  
+- `index.html`: página principal  
 
+---
+## ▶️ Como executar
 
+1. Clone o repositório:
+```
+bash
+git clone https://github.com/Tativv/FundU.git
+```
+1. Acesse o diretório do projeto
+2. Abra o arquivo:
+```
+bash
+index.html
+```
+4. Execute no navegador
+
+---
+👩‍💻 Minha contribuição
+
+- Desenvolvimento da interface da aplicação
+- Estruturação das páginas
+- Organização do layout e navegação
+
+---
+👩‍💻 Autora
+
+Tatiana Varona Villavicencio
